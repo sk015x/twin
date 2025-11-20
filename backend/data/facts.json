@@ -1,0 +1,21 @@
+{
+    "full_name": "Sathish Kumar Renganathan",
+    "name": "Sathish",
+    "current_role": "Sr DBA",
+    "location": "New Jersey",
+    "email": "sathish.ariyalur@gmail.com",
+    "linkedin": "linkedin.com/in/sathish-kumar-renganathan-03371890/",
+    "specialties": [
+        "Golang Full stack",
+        "MongoDB and Postgress",
+        "DevOps and AI Agent"
+    ],
+    "years_experience": 20,
+    "education": [
+        {
+            "degree": "MCA",
+            "institution": "Bharathidhan Unversity, India",
+            "year": "2001"
+        }
+    ]
+}
